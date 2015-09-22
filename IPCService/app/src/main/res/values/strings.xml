@@ -1,6 +1,9 @@
 <resources>
-    <string name="app_name">IPCDataProvider</string>
+    <string name="app_name">IPCDataProvideromeService  h</string>
 
-    <string name="hello_world">Hello world!</string>
+    <string name="home_title">IPC Home </string>
+    <string name="btn_start">Start</string>
     <string name="action_settings">Settings</string>
+    <string name="txt_btn_Start">Start</string>
+    <string name="txt_btn_end">End</string>
 </resources>
